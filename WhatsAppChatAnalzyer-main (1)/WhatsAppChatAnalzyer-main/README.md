@@ -18,10 +18,10 @@ WhatsApp Chat Analyzer is a tool designed to analyze and extract insights from W
 
 
  >**_Need help?_** 
- >**_Feel free to contact me @ [sshemanthbollepalli@gmail.com](mailto:sshemanthbollepalli@gmail.com?Subject=WhatsApp_Chat_Analyzer)_**
+ >**_Feel free to contact me @ [lakshmitejaswiniguntupalli06@gmail.com](mailto:lakshmitejaswiniguntupalli06@gmail.com?Subject=WhatsApp_Chat_Analyzer)_**
 
 ---
 
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/sshemanth/) [![smile please](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/sshemanth/)
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/guntupalli-lakshmi-tejaswini-7b7a0b338/) [![smile please](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/LakshmiTejaswini26)
 
 
