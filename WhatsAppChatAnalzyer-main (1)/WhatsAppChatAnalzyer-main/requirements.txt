@@ -1,0 +1,8 @@
+streamlit
+matplotlib
+urlextract
+seaborn
+wordcloud
+pandas
+emoji
+plotly
